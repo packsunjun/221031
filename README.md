@@ -21,3 +21,12 @@ window+. 이모지
 Z인덱스
 비지빌리티 텍스트숨기기
 오버플로우 프로퍼티 활용
+
+    <title>스타일 없는 웹 페이지</title>
+    <style>
+        /* CSS style sheet 작성 */
+        body {background-color: mistyrose;}
+        h3 {color: purple;}
+        hr {border: 5px solid yellowgreen;}
+        span {color: blue; font-size: 20px;}
+    </style>
